@@ -8,7 +8,10 @@
 
 ## Packages
 * Naming Convention: Lower Case 
-* Prefix: com.iisigroup.product.bankwiz  
+* Prefix
+```java
+package com.iisigroup.product.bankwiz
+```  
 
 ## Project Structure
 ```
