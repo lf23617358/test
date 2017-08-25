@@ -1,14 +1,14 @@
 ## Modules
-* Naming Convention: lower case 
-* project folder: bankwiz-${moduleName}  
-* Version: x.y.z(主版號.次版號.修訂號）
+* Naming Convention: Lower Case 
+* Project目錄: bankwiz-${moduleName}  
+* 版本格式: x.y.z(主版號.次版號.修訂號）
   1. 主版號：當你做了不相容的 API 修改
   2. 次版號：當你做了向下相容的功能性新增(feature)
   3. 修訂號：當你做了向下相容的問題修正(hotfix)
 
 ## Packages
-* Naming Convention: lower case 
-* prefix: com.iisigroup.product.bankwiz  
+* Naming Convention: Lower Case 
+* Prefix: com.iisigroup.product.bankwiz  
 
 ## Project Structure
 ```
@@ -67,8 +67,3 @@
   </configuration>
 </plugin>
 ```
-
-
-
-
-
