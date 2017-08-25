@@ -1,9 +1,9 @@
 ## Modules
-Naming Convention: lower case 
+* Naming Convention: lower case 
 
-project folder: bankwiz-${moduleName}  
+* project folder: bankwiz-${moduleName}  
 
-version: x.y.z(主版號.次版號.修訂號）
+* Version: x.y.z(主版號.次版號.修訂號）
 1. 主版號：當你做了不相容的 API 修改
 2. 次版號：當你做了向下相容的功能性新增(feature)
 3. 修訂號：當你做了向下相容的問題修正(hotfix)
